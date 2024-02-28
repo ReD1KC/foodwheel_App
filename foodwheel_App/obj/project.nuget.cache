@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "csGGGw+qPLH61Hgm8LkrT2xdaTcgUVY95BRce+ESs5LvseZVrAi1uUN48NCf1QodolMwfi0PBRzvRpaktjpBsA==",
+  "success": true,
+  "projectFilePath": "/home/konstantin/_sd/_it/C#/RiderProjects/foodwheel_App/foodwheel_App/foodwheel_App.csproj",
+  "expectedPackageFiles": [
+    "/home/konstantin/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "/home/konstantin/.nuget/packages/microsoft.netframework.referenceassemblies.net461/1.0.3/microsoft.netframework.referenceassemblies.net461.1.0.3.nupkg.sha512",
+    "/home/konstantin/.nuget/packages/microsoft.winforms.designer.sdk/1.9.0-preview.3.24054.5/microsoft.winforms.designer.sdk.1.9.0-preview.3.24054.5.nupkg.sha512",
+    "/home/konstantin/.nuget/packages/system.codedom/4.6.0/system.codedom.4.6.0.nupkg.sha512",
+    "/home/konstantin/.nuget/packages/system.composition/6.0.0/system.composition.6.0.0.nupkg.sha512",
+    "/home/konstantin/.nuget/packages/system.composition.attributedmodel/6.0.0/system.composition.attributedmodel.6.0.0.nupkg.sha512",
+    "/home/konstantin/.nuget/packages/system.composition.convention/6.0.0/system.composition.convention.6.0.0.nupkg.sha512",
+    "/home/konstantin/.nuget/packages/system.composition.hosting/6.0.0/system.composition.hosting.6.0.0.nupkg.sha512",
+    "/home/konstantin/.nuget/packages/system.composition.runtime/6.0.0/system.composition.runtime.6.0.0.nupkg.sha512",
+    "/home/konstantin/.nuget/packages/system.composition.typedparts/6.0.0/system.composition.typedparts.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
