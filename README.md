@@ -1,1 +1,3 @@
-Program for choosing a random place from lunch.
+# foodWeel_App
+
+Simple App for choosing place for lunch.
